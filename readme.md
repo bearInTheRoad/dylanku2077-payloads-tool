@@ -3,6 +3,7 @@
 ## LFI
 
 - <https://github.com/emadshanab/LFI-Payload-List/blob/master/LFI%20payloads.txt>
+- https://github.com/danielmiessler/SecLists
 
 ## Command Injection
 
